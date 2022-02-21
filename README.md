@@ -72,3 +72,5 @@ public class Product {
 		return Objects.equals(name, other.name) && Objects.equals(price, other.price);
 	}
 }
+
+[13-generics-set-map.pdf](https://github.com/yarisb/Map/files/8111322/13-generics-set-map.pdf)
