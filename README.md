@@ -47,3 +47,4 @@ public class Program {
 		sc.close();
 	}
 }
+[13-generics-set-map.pdf](https://github.com/yarisb/Map/files/8111324/13-generics-set-map.pdf)
